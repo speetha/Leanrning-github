@@ -4,3 +4,4 @@ echo "Test line 3"
 echo "Test line 2"
 # Comment 2
 echo "Test line 3"
+# comment new 3
